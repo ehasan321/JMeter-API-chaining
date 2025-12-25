@@ -46,8 +46,8 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 ## How to run!
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ehasan101/JMeter-API-Chaining.git
-   cd JMeter-API-Chaining
+   git clone https://github.com/ehasan321/JMeter-API-chaining.git
+   cd JMeter-API-chaining
 
 2. Ensure all required CSV datasets are moved into the root directory of the project folder.
 3. Run the JMeter test in CLI (Non-GUI) mode to optimize performance and generate the results file:
