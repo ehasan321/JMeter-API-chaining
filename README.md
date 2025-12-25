@@ -63,7 +63,8 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 
 ## Summary & Statistics
 
-![image](https://drive.google.com/uc?export=view&id=--1YXK6rH1sCpuT2VLWEhTydqhLleF79qD3-)
+![image1](https://drive.google.com/uc?export=view&id=17uFMBSLyJuXG2cj-pVW7WlCqXJiaxD2d)
+![image2](https://drive.google.com/uc?export=view&id=1vP2-MvohkZq8lL4s7-F3jKt5EAQFx0fk)
 
 
 ## Contributing
