@@ -41,7 +41,7 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 ## Prerequisites
 * Install JDK (LTS) & Apache JMeter 5.x
 * Plugins: [Plugins Manager](https://jmeter-plugins.org/install/Install/) (recommended)
-* External CSV data files (included in the repo)
+* External CSV data files (included in 'resources' the repo)
 
 ## How to run!
 1. Clone this repository:
@@ -58,7 +58,7 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 * -l: Path to the JTL file to log sample results.
 * -e -o: Generate an HTML report in the specified "Reports" folder.
 
-4. View the Results: navigate to the Reports directory and open index.html
+4. **View the Results:** navigate to the Reports directory and open index.html
 
 
 ## Summary & Statistics
