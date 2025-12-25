@@ -52,7 +52,7 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 2. Ensure all required CSV datasets are moved into the root directory of the project folder.
 3. Run the JMeter test in CLI (Non-GUI) mode to optimize performance and generate the results file:
    ```bash
-   jmeter -n -t dmoney.jmx -l dmoney.jtl -e -o Reports
+   jmeter -n -t DMoney_Jmeter_API_chaining.jmx -l DMoney.jtl -e -o Reports
 * -n: Run in non-GUI mode.
 * -t: Path to the JMX source file.
 * -l: Path to the JTL file to log sample results.
@@ -66,6 +66,18 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 ![image1](https://drive.google.com/uc?export=view&id=17uFMBSLyJuXG2cj-pVW7WlCqXJiaxD2d)
 ![image2](https://drive.google.com/uc?export=view&id=1vP2-MvohkZq8lL4s7-F3jKt5EAQFx0fk)
 
+---
+
+## This is what I have done in this project!
+- API Chaining
+- Data-Driven Testing 
+- Automated Assertions   
+- HTML Report Generation
+- Multiple Scenarios
+
+This project demonstrates end-to-end API testing with token chaining, data-driven CSV inputs, realistic load simulation across 4 user roles, automated response validation, and an interactive HTML dashboard for performance analysis.
+
+---
 
 ## Contributing
 
