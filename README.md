@@ -39,7 +39,7 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 ---
 
 ## Prerequisites
-* Install JDK (LTS) & Apache JMeter 5.x
+* Install JAVA JDK (LTS) & Apache JMeter 5.x
 * Plugins: [Plugins Manager](https://jmeter-plugins.org/install/Install/) (recommended)
 * External CSV data files (included in 'resources' the repo)
 
@@ -70,10 +70,11 @@ The primary goal is to simulate a complete transaction lifecycle—from Admin au
 
 ## This is what I have done in this project!
 - API Chaining
+- Multiple Scenarios
 - Data-Driven Testing 
 - Automated Assertions   
 - HTML Report Generation
-- Multiple Scenarios
+
 
 This project demonstrates end-to-end API testing with token chaining, data-driven CSV inputs, realistic load simulation across 4 user roles, automated response validation, and an interactive HTML dashboard for performance analysis.
 
